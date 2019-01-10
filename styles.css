@@ -1,0 +1,24 @@
+html{background-color:#111E6C;}
+
+img{
+    width:200px;
+    }
+    
+h1{
+    color:orange;
+    font-family: 'Elsie Swash Caps', cursive;
+}
+
+img{
+    width: 200px;
+    border:5px solid black;
+    margin:6px;
+    padding:2px;
+    }
+body{
+    text-align:center;
+}
+p{
+     color:white;
+    font-family: 'Cinzel Decorative', cursive;
+    }
